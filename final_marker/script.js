@@ -20,11 +20,12 @@
        lng: lngs[i],
       
      	content: 
-     	" <div style='background-color:rgba(193, 66, 66, 0.75); border:2px solid black; color:black; width:250px; height:300px'>"+
-     	"<IMG SRC='images/"+ (i+1) +".jpg' style='BORDER:5px solid black; margin-left:18px; margin-top:10px'>"+
-  "<h2>"+"Place: "+place[i]+"</h2>"+
-  "<h2>"+"Lat: "+ lats[i]+"  Lng: "+lngs[i]+"</h2>"+
-   "<h2>"+"RSI: " +index[i].toFixed(2)+"/10"+"</h2>"+
+     	" <div style='background-color:rgba(193, 66, 66, 1); border:2px solid black; color:black; width:450px; height:200px'>"+
+     	"<IMG SRC='images/"+ (i+1) +".jpg' align='left' style='BORDER:5px solid black; margin-left:18px; margin-top:10px'>"+
+  "<h2 align='middle'>"+"Place: "+place[i]+"</h2>"+
+  "<h2 align='middle'>"+"Lat: "+ lats[i]+
+  "<h2 align='middle'>"+"Lng: "+lngs[i]+"</h2>"+
+   "<h2 align='middle'>"+"RSI: " +index[i].toFixed(2)+"/10"+"</h2>"+
   
   
 "</div>",
@@ -41,11 +42,12 @@
        lng: lngs[i],
       
      	content: 
-     	" <div style='background-color:rgba(150, 66, 66, 0.75); border:2px solid black; color:black; width:250px; height:300px'>"+
-     	"<IMG SRC='images/"+ (i+1) +".jpg' style='BORDER:5px solid black; margin-left:18px; margin-top:10px'>"+
-  "<h2>"+"Place: "+place[i]+"</h2>"+
-  "<h2>"+"Lat: "+ lats[i]+"  Lng: "+lngs[i]+"</h2>"+
- "<h2>"+"RSI: " +index[i].toFixed(2)+"/10"+"</h2>"+
+     	" <div style='background-color:rgba(150, 66, 66, 1); border:2px solid black; color:black; width:450px; height:200px'>"+
+     	"<IMG SRC='images/"+ (i+1) +".jpg' align='left' style='BORDER:5px solid black; margin-left:18px; margin-top:10px'>"+
+  "<h2 align='middle'>"+"Place: "+place[i]+"</h2>"+
+  "<h2 align='middle'>"+"Lat: "+ lats[i]+
+  "<h2 align='middle'>"+"Lng: "+lngs[i]+"</h2>"+
+ "<h2 align='middle'>"+"RSI: " +index[i].toFixed(2)+"/10"+"</h2>"+
   
   
 "</div>",
@@ -62,11 +64,12 @@
        lng: lngs[i],
        
      	content: 
-     	" <div style='background-color:rgba(127, 150, 63, 0.75); border:2px solid black; color:black; width:250px; height:300px'>"+
-     	"<IMG SRC='images/"+ (i+1) +".jpg' style='BORDER:5px solid black; margin-left:18px; margin-top:10px'>"+
-  "<h2>"+"Place: "+place[i]+"</h2>"+
-  "<h2>"+"Lat: "+ lats[i]+"  Lng: "+lngs[i]+"</h2>"+
-  "<h2>"+"RSI: " +index[i].toFixed(2)+"/10"+"</h2>"+
+     	" <div style='background-color:rgba(127, 150, 63, 1); border:2px solid black; color:black; width:450px; height:200px'>"+
+     	"<IMG SRC='images/"+ (i+1) +".jpg' align='left' style='BORDER:5px solid black; margin-left:18px; margin-top:10px'>"+
+  "<h2 align='middle'>"+"Place: "+place[i]+"</h2>"+
+  "<h2 align='middle'>"+"Lat: "+ lats[i]+
+  "<h2 align='middle'>"+"Lng: "+lngs[i]+"</h2>"+
+  "<h2 align='middle'>"+"RSI: " +index[i].toFixed(2)+"/10"+"</h2>"+
   
   
 "</div>",
@@ -84,11 +87,12 @@
        lng: lngs[i],
        
      	content: 
-     	" <div style='background-color:rgba(127, 191, 63, 0.75); border:2px solid black; color:black; width:250px; height:300px'>"+
-     	"<IMG SRC='images/"+ (i+1) +".jpg' style='BORDER:5px solid black; margin-left:18px; margin-top:10px'>"+
-  "<h2>"+"Place: "+place[i]+"</h2>"+
-  "<h2>"+"Lat: "+ lats[i]+"  Lng: "+lngs[i]+"</h2>"+
- "<h2>"+"RSI: " +index[i].toFixed(2)+"/10"+"</h2>"+
+     	" <div style='background-color:rgba(127, 191, 63, 1); border:2px solid black; color:black; width:450px; height:185px'>"+
+     	"<IMG SRC='images/"+ (i+1) +".jpg' align='left' style='BORDER:5px solid black; margin-left:18px; margin-top:10px'>"+
+  "<h2 align='middle'>"+"Place: "+place[i]+"</h2>"+
+  "<h2 align='middle'>"+"Lat: "+ lats[i]+
+  "<h2 align='middle'>"+"Lng: "+lngs[i]+"</h2>"+
+ "<h2 align='middle'>"+"RSI: " +index[i].toFixed(2)+"/10"+"</h2>"+
   
   
 "</div>",
