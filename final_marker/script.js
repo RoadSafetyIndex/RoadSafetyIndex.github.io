@@ -20,7 +20,7 @@
        lng: lngs[i],
       
      	content: 
-     	" <div style='background-color:rgba(193, 66, 66, 1); border:2px solid black; color:black; width:450px; height:200px'>"+
+     	" <div style='background-color:rgba(193, 66, 66, 1); border:2px solid black; color:black; width:450px; height:185px'>"+
      	"<IMG SRC='images/"+ (i+1) +".jpg' align='left' style='BORDER:5px solid black; margin-left:18px; margin-top:10px'>"+
   "<h2 align='middle'>"+"Place: "+place[i]+"</h2>"+
   "<h2 align='middle'>"+"Lat: "+ lats[i]+
@@ -42,7 +42,7 @@
        lng: lngs[i],
       
      	content: 
-     	" <div style='background-color:rgba(150, 66, 66, 1); border:2px solid black; color:black; width:450px; height:200px'>"+
+     	" <div style='background-color:rgba(150, 66, 66, 1); border:2px solid black; color:black; width:450px; height:185px'>"+
      	"<IMG SRC='images/"+ (i+1) +".jpg' align='left' style='BORDER:5px solid black; margin-left:18px; margin-top:10px'>"+
   "<h2 align='middle'>"+"Place: "+place[i]+"</h2>"+
   "<h2 align='middle'>"+"Lat: "+ lats[i]+
@@ -64,7 +64,7 @@
        lng: lngs[i],
        
      	content: 
-     	" <div style='background-color:rgba(127, 150, 63, 1); border:2px solid black; color:black; width:450px; height:200px'>"+
+     	" <div style='background-color:rgba(127, 150, 63, 1); border:2px solid black; color:black; width:450px; height:185px'>"+
      	"<IMG SRC='images/"+ (i+1) +".jpg' align='left' style='BORDER:5px solid black; margin-left:18px; margin-top:10px'>"+
   "<h2 align='middle'>"+"Place: "+place[i]+"</h2>"+
   "<h2 align='middle'>"+"Lat: "+ lats[i]+
